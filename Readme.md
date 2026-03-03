@@ -19,7 +19,7 @@ Because this project uses browser-loaded React + Babel (no build step), start a 
 python3 -m http.server 4173
 ```
 
-Then open:
+Then open the link in your browser:
 
 - `http://localhost:4173`
 
